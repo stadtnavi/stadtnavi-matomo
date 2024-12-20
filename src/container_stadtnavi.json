@@ -11,19 +11,19 @@
   "updated_date": "2024-11-19 15:38:24",
   "created_date_pretty": "Nov 19, 2024 16:37:48",
   "updated_date_pretty": "Nov 19, 2024 16:38:24",
-  "revision": 93,
+  "revision": 99,
   "version": {
-    "name": "MatomoTagManager.dataLayer.get 8",
+    "name": "Remove user-specific data from the URL",
     "description": "",
-    "revision": 93,
-    "created_date": "2024-12-20 09:53:51",
-    "created_date_pretty": "Dec 20, 2024 10:53:51",
-    "updated_date": "2024-12-20 09:53:51",
-    "updated_date_pretty": "Dec 20, 2024 10:53:51"
+    "revision": 99,
+    "created_date": "2024-12-20 13:30:45",
+    "created_date_pretty": "Dec 20, 2024 14:30:45",
+    "updated_date": "2024-12-20 13:30:45",
+    "updated_date_pretty": "Dec 20, 2024 14:30:45"
   },
   "tags": [
     {
-      "idtag": 3908,
+      "idtag": 4180,
       "type": "Matomo",
       "name": "show earlier itineraries",
       "description": "Click on the \"earlier\" button",
@@ -48,7 +48,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6335
+        6702
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -56,13 +56,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3909,
+      "idtag": 4181,
       "type": "Matomo",
       "name": "show later itineraries",
       "description": "Click on the \"later\" button",
@@ -87,7 +87,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6336
+        6703
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -95,13 +95,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3910,
+      "idtag": 4182,
       "type": "Matomo",
       "name": "reset journey start time",
       "description": "Click on \"now\" in the itinerary options",
@@ -126,7 +126,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6337
+        6704
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -134,13 +134,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3911,
+      "idtag": 4183,
       "type": "Matomo",
       "name": "Navigate to the homepage",
       "description": "Restart the web app",
@@ -165,8 +165,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6338,
-        6339
+        6705,
+        6706
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -174,13 +174,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3912,
+      "idtag": 4184,
       "type": "Matomo",
       "name": "Open Map data menu",
       "description": "Click the Map data menu icon",
@@ -205,8 +205,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6340,
-        6375
+        6707,
+        6742
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -214,13 +214,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3913,
+      "idtag": 4185,
       "type": "Matomo",
       "name": "Switch journey start and end point order",
       "description": "Change the journey order",
@@ -245,7 +245,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6341
+        6708
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -253,13 +253,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3914,
+      "idtag": 4186,
       "type": "Matomo",
       "name": "highlight itinerary",
       "description": "",
@@ -284,8 +284,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6344,
-        6345
+        6711,
+        6712
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -293,13 +293,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3915,
+      "idtag": 4187,
       "type": "Matomo",
       "name": "Open route from itinerary",
       "description": "",
@@ -324,7 +324,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6349
+        6716
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -332,13 +332,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3916,
+      "idtag": 4188,
       "type": "Matomo",
       "name": "Transport mode subway disabled",
       "description": "Disable checkbox: transport mode subway",
@@ -363,7 +363,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6350
+        6717
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -371,13 +371,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3917,
+      "idtag": 4189,
       "type": "Matomo",
       "name": "Transport mode carpool disabled",
       "description": "disable checkbox: transport mode carpool",
@@ -402,7 +402,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6351
+        6718
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -410,13 +410,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3918,
+      "idtag": 4190,
       "type": "Matomo",
       "name": "Travel mode avoid walking",
       "description": "toggle travel mode Avoid Walking",
@@ -441,7 +441,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6353
+        6720
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -449,13 +449,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3919,
+      "idtag": 4191,
       "type": "Matomo",
       "name": "Travel mode bicycle",
       "description": "toggle travel mode Bicycle",
@@ -480,7 +480,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6354
+        6721
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -488,13 +488,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3920,
+      "idtag": 4192,
       "type": "Matomo",
       "name": "Travel mode park & ride",
       "description": "toggle travel mode P&R",
@@ -519,7 +519,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6355
+        6722
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -527,13 +527,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3921,
+      "idtag": 4193,
       "type": "Matomo",
       "name": "Select language",
       "description": "Click on language selection link in main-menu",
@@ -558,7 +558,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6317
+        6684
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -566,13 +566,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3922,
+      "idtag": 4194,
       "type": "Matomo",
       "name": "Edit journey date",
       "description": "Open datepicker to edit journey date",
@@ -597,7 +597,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6319
+        6686
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -605,13 +605,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3923,
+      "idtag": 4195,
       "type": "Matomo",
       "name": "Print route",
       "description": "Click on Print button",
@@ -636,7 +636,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6321
+        6688
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -644,13 +644,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3924,
+      "idtag": 4196,
       "type": "Matomo",
       "name": "Open favourite-modal",
       "description": "Click opens favourite-modal",
@@ -675,7 +675,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6366
+        6733
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -683,13 +683,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3925,
+      "idtag": 4197,
       "type": "Matomo",
       "name": "Save favourite",
       "description": "Save favourite in modal dialoge",
@@ -714,7 +714,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6322
+        6689
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -722,13 +722,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3926,
+      "idtag": 4198,
       "type": "Matomo",
       "name": "Edit favourite",
       "description": "Click on edit button",
@@ -753,7 +753,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6323
+        6690
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -761,13 +761,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3927,
+      "idtag": 4199,
       "type": "Matomo",
       "name": "Select journey time mode",
       "description": "Click on arrival in departure-or-arrival selection",
@@ -792,8 +792,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6324,
-        6320
+        6691,
+        6687
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -801,13 +801,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3928,
+      "idtag": 4200,
       "type": "Matomo",
       "name": "open itinerary details",
       "description": "",
@@ -832,8 +832,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6325,
-        6348
+        6692,
+        6715
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -841,13 +841,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3929,
+      "idtag": 4201,
       "type": "Matomo",
       "name": "search",
       "description": "interactions with the search form",
@@ -872,8 +872,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6326,
-        6327
+        6693,
+        6694
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -881,13 +881,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3930,
+      "idtag": 4202,
       "type": "Matomo",
       "name": "open route",
       "description": "",
@@ -912,7 +912,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6330
+        6697
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -920,13 +920,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3931,
+      "idtag": 4203,
       "type": "Matomo",
       "name": "Open stop",
       "description": "Open stop details",
@@ -951,8 +951,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6331,
-        6332
+        6698,
+        6699
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -960,13 +960,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3932,
+      "idtag": 4204,
       "type": "Matomo",
       "name": "remove via point",
       "description": "",
@@ -991,9 +991,9 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6333,
-        6342,
-        6343
+        6700,
+        6709,
+        6710
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1001,13 +1001,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3933,
+      "idtag": 4205,
       "type": "Matomo",
       "name": "Select settings profile",
       "description": "Click to open the advanced itinerary settings layer",
@@ -1032,7 +1032,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6334
+        6701
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1040,13 +1040,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3934,
+      "idtag": 4206,
       "type": "Matomo",
       "name": "Transport mode rail enabled",
       "description": "enable checkbox: transport mode rail",
@@ -1071,7 +1071,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6359
+        6726
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1079,13 +1079,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3935,
+      "idtag": 4207,
       "type": "Matomo",
       "name": "Transport mode subway enabled",
       "description": "enable checkbox: transport mode subway",
@@ -1110,7 +1110,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6357
+        6724
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1118,13 +1118,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3936,
+      "idtag": 4208,
       "type": "Matomo",
       "name": "Transport mode carpool enabled",
       "description": "enable checkbox: transport mode carpool",
@@ -1149,7 +1149,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6358
+        6725
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1157,13 +1157,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3937,
+      "idtag": 4209,
       "type": "Matomo",
       "name": "Transport mode  bikeshare rental-bicycle",
       "description": "Toggle checkbox: transport mode rental-bicycle",
@@ -1188,7 +1188,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6360
+        6727
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1196,13 +1196,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3938,
+      "idtag": 4210,
       "type": "Matomo",
       "name": "page loaded",
       "description": "Fired when the DOM is ready",
@@ -1227,7 +1227,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6362
+        6729
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1235,13 +1235,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3939,
+      "idtag": 4211,
       "type": "Matomo",
       "name": "Favourite itinerary settings",
       "description": "Track when favourite expand button is clicked",
@@ -1266,7 +1266,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6363
+        6730
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1274,13 +1274,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3940,
+      "idtag": 4212,
       "type": "Matomo",
       "name": "Transport mode bus disabled",
       "description": "disable checkbox: transport mode bus",
@@ -1305,7 +1305,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6364
+        6731
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1313,13 +1313,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3941,
+      "idtag": 4213,
       "type": "Matomo",
       "name": "Transport mode bus enabled",
       "description": "enable checkbox: transport mode bus",
@@ -1344,7 +1344,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6365
+        6732
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1352,13 +1352,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3942,
+      "idtag": 4214,
       "type": "Matomo",
       "name": "Toggle positioning",
       "description": "Click on the positioning button",
@@ -1383,7 +1383,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6367
+        6734
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1391,13 +1391,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3943,
+      "idtag": 4215,
       "type": "Matomo",
       "name": "Close message bar",
       "description": "Click on close button",
@@ -1422,8 +1422,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6368,
-        6374
+        6735,
+        6741
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1431,13 +1431,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3944,
+      "idtag": 4216,
       "type": "Matomo",
       "name": "Transport mode rail disabled",
       "description": "disable checkbox: transport mode rail",
@@ -1462,7 +1462,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6356
+        6723
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1470,13 +1470,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3945,
+      "idtag": 4217,
       "type": "Matomo",
       "name": "Transport mode funicular enabled",
       "description": "enable checkbox: transport mode funicular",
@@ -1501,7 +1501,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6370
+        6737
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1509,13 +1509,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3946,
+      "idtag": 4218,
       "type": "Matomo",
       "name": "Transport mode funicular disabled",
       "description": "disable checkbox: transport mode funicular",
@@ -1540,7 +1540,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6369
+        6736
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1548,13 +1548,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3947,
+      "idtag": 4219,
       "type": "Matomo",
       "name": "Transport mode rental-scooter",
       "description": "Toggle checkbox: transport mode rental-scooter",
@@ -1579,7 +1579,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6371
+        6738
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1587,13 +1587,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3948,
+      "idtag": 4220,
       "type": "Matomo",
       "name": "Transport mode rental-car",
       "description": "Toggle checkbox: transport mode rental-car",
@@ -1618,7 +1618,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6372
+        6739
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1626,13 +1626,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtag": 3949,
+      "idtag": 4221,
       "type": "Matomo",
       "name": "Travel mode car",
       "description": "toggle travel mode Car",
@@ -1657,7 +1657,7 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6373
+        6740
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1665,13 +1665,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:46",
+      "updated_date": "2024-12-20 13:30:46",
+      "created_date_pretty": "Dec 20, 2024 14:30:46",
+      "updated_date_pretty": "Dec 20, 2024 14:30:46"
     },
     {
-      "idtag": 3950,
+      "idtag": 4222,
       "type": "Matomo",
       "name": "Open main menu",
       "description": "Click the main menu icon",
@@ -1696,8 +1696,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6342,
-        6343
+        6709,
+        6710
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1705,13 +1705,13 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:46",
+      "updated_date": "2024-12-20 13:30:46",
+      "created_date_pretty": "Dec 20, 2024 14:30:46",
+      "updated_date_pretty": "Dec 20, 2024 14:30:46"
     },
     {
-      "idtag": 3951,
+      "idtag": 4223,
       "type": "Matomo",
       "name": "Toggle checkboxes in Map data menu",
       "description": "Track the Checkboxes in the Map data menu",
@@ -1736,8 +1736,8 @@
         "areCustomDimensionsSticky": false
       },
       "fire_trigger_ids": [
-        6318,
-        6352
+        6685,
+        6719
       ],
       "block_trigger_ids": [],
       "fire_limit": "unlimited",
@@ -1745,15 +1745,94 @@
       "fire_delay": 0,
       "start_date": null,
       "end_date": null,
-      "created_date": "2024-12-20 09:53:52",
-      "updated_date": "2024-12-20 09:53:52",
-      "created_date_pretty": "Dec 20, 2024 10:53:52",
-      "updated_date_pretty": "Dec 20, 2024 10:53:52"
+      "created_date": "2024-12-20 13:30:46",
+      "updated_date": "2024-12-20 13:30:46",
+      "created_date_pretty": "Dec 20, 2024 14:30:46",
+      "updated_date_pretty": "Dec 20, 2024 14:30:46"
+    },
+    {
+      "idtag": 4224,
+      "type": "Matomo",
+      "name": "Map data menu change map type",
+      "description": "Change the map type in Map data menu",
+      "status": "active",
+      "parameters": {
+        "matomoConfig": "{{stadtnavi Matomo}}",
+        "trackingType": "event",
+        "idGoal": "",
+        "goalCustomRevenue": "",
+        "documentTitle": "",
+        "customUrl": "",
+        "isEcommerceView": false,
+        "productSKU": "",
+        "productName": "",
+        "categoryName": "",
+        "price": "",
+        "eventCategory": "map-data",
+        "eventAction": "change map type",
+        "eventName": "{{ClickElement parentNode textContent}}",
+        "eventValue": "",
+        "customDimensions": [],
+        "areCustomDimensionsSticky": false
+      },
+      "fire_trigger_ids": [
+        6743,
+        6744
+      ],
+      "block_trigger_ids": [],
+      "fire_limit": "unlimited",
+      "priority": 999,
+      "fire_delay": 0,
+      "start_date": null,
+      "end_date": null,
+      "created_date": "2024-12-20 13:30:46",
+      "updated_date": "2024-12-20 13:30:46",
+      "created_date_pretty": "Dec 20, 2024 14:30:46",
+      "updated_date_pretty": "Dec 20, 2024 14:30:46"
+    },
+    {
+      "idtag": 4225,
+      "type": "Matomo",
+      "name": "External link Service",
+      "description": "Track clicks on external Service links",
+      "status": "active",
+      "parameters": {
+        "matomoConfig": "{{stadtnavi Matomo}}",
+        "trackingType": "event",
+        "idGoal": "",
+        "goalCustomRevenue": "",
+        "documentTitle": "",
+        "customUrl": "",
+        "isEcommerceView": false,
+        "productSKU": "",
+        "productName": "",
+        "categoryName": "",
+        "price": "",
+        "eventCategory": "map",
+        "eventAction": "external service",
+        "eventName": "{{ClickElement}}",
+        "eventValue": "",
+        "customDimensions": [],
+        "areCustomDimensionsSticky": false
+      },
+      "fire_trigger_ids": [
+        6745
+      ],
+      "block_trigger_ids": [],
+      "fire_limit": "unlimited",
+      "priority": 999,
+      "fire_delay": 0,
+      "start_date": null,
+      "end_date": null,
+      "created_date": "2024-12-20 13:30:46",
+      "updated_date": "2024-12-20 13:30:46",
+      "created_date_pretty": "Dec 20, 2024 14:30:46",
+      "updated_date_pretty": "Dec 20, 2024 14:30:46"
     }
   ],
   "triggers": [
     {
-      "idtrigger": 6317,
+      "idtrigger": 6684,
       "type": "AllElementsClick",
       "name": "Language select",
       "description": "Click on language selection link in main-menu",
@@ -1765,13 +1844,13 @@
           "expected": "#lang-select a"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6318,
+      "idtrigger": 6685,
       "type": "AllElementsClick",
       "name": "Map data Checkbox",
       "description": "Click the Checkbox in Map data menu",
@@ -1783,13 +1862,13 @@
           "expected": ".map-layers-content .layer-category-dropdown-checkbox"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6319,
+      "idtrigger": 6686,
       "type": "AllElementsClick",
       "name": "Edit journey datetime",
       "description": "Click on datetimepicker",
@@ -1801,13 +1880,13 @@
           "expected": ".datetimepicker-container .datetimepicker-select__value-container"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6320,
+      "idtrigger": 6687,
       "type": "AllElementsClick",
       "name": "Choose journey time mode: departure",
       "description": "Click on departure in departure-or-arrival selection",
@@ -1819,13 +1898,13 @@
           "expected": ".styles_departure-or-arrival-container__pJ-Iw label:first-of-type"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6321,
+      "idtrigger": 6688,
       "type": "AllElementsClick",
       "name": "Print route button",
       "description": "Click on print button",
@@ -1837,13 +1916,13 @@
           "expected": ".itinerary-profile-container .print"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6322,
+      "idtrigger": 6689,
       "type": "AllElementsClick",
       "name": "Save new favourite button",
       "description": "Save new favourite in modal",
@@ -1855,13 +1934,13 @@
           "expected": "desktop_favourite-modal-desktop-button__[0-9a-zA-Z]*"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6323,
+      "idtrigger": 6690,
       "type": "AllElementsClick",
       "name": "Edit favourite button",
       "description": "Click on Edit button",
@@ -1873,13 +1952,13 @@
           "expected": "#favourite-suggestion-list--item-1 div"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6324,
+      "idtrigger": 6691,
       "type": "AllElementsClick",
       "name": "Choose journey time mode: arrival",
       "description": "Click on arrival in departure-or-arrival selection",
@@ -1891,13 +1970,13 @@
           "expected": ".styles_departure-or-arrival-container__pJ-Iw label"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6325,
+      "idtrigger": 6692,
       "type": "AllElementsClick",
       "name": "itinerary row opens - second click (elements)",
       "description": "",
@@ -1919,13 +1998,13 @@
           "expected": ".passive *"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6326,
+      "idtrigger": 6693,
       "type": "AllElementsClick",
       "name": "#origin click",
       "description": "input origin",
@@ -1937,13 +2016,13 @@
           "expected": "origin"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6327,
+      "idtrigger": 6694,
       "type": "AllElementsClick",
       "name": "#destination click",
       "description": "input destination",
@@ -1955,13 +2034,13 @@
           "expected": "destination"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6328,
+      "idtrigger": 6695,
       "type": "AllElementsClick",
       "name": "#viapoint click",
       "description": "click viapoint",
@@ -1973,13 +2052,13 @@
           "expected": "viapoint"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6329,
+      "idtrigger": 6696,
       "type": "AllElementsClick",
       "name": "time input field click",
       "description": "Click on time input label",
@@ -1991,13 +2070,13 @@
           "expected": "datetimepicker-[0-9]*-time-label"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6330,
+      "idtrigger": 6697,
       "type": "AllLinksClick",
       "name": "route clicked (in departure list)",
       "description": "",
@@ -2009,13 +2088,13 @@
           "expected": " .departure-list a"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6331,
+      "idtrigger": 6698,
       "type": "AllLinksClick",
       "name": "open stop via popup",
       "description": "Open stop details in card popup",
@@ -2027,13 +2106,13 @@
           "expected": ".card a.no-decoration"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6332,
+      "idtrigger": 6699,
       "type": "AllLinksClick",
       "name": "open stop through route's stops",
       "description": "Open stop details in itinerary-tab",
@@ -2045,13 +2124,13 @@
           "expected": ".itinerary-tab .itinerary-main .itinerary-leg-row a"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6333,
+      "idtrigger": 6700,
       "type": "AllElementsClick",
       "name": "remove via point (section)",
       "description": "",
@@ -2063,13 +2142,13 @@
           "expected": "remove-via-point"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6334,
+      "idtrigger": 6701,
       "type": "AllElementsClick",
       "name": "Select settings profile",
       "description": "open advanced settings window",
@@ -2081,13 +2160,13 @@
           "expected": ".open-advanced-settings-window-button"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6335,
+      "idtrigger": 6702,
       "type": "AllElementsClick",
       "name": "earlier button click",
       "description": "Click on earlier button",
@@ -2099,13 +2178,13 @@
           "expected": ".time-navigation-btn.top-btn"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6336,
+      "idtrigger": 6703,
       "type": "AllElementsClick",
       "name": "later button click",
       "description": "Click on the later button",
@@ -2117,13 +2196,13 @@
           "expected": ".time-navigation-btn.bottom-btn"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6337,
+      "idtrigger": 6704,
       "type": "AllElementsClick",
       "name": "now button click",
       "description": "Click on now at the datetimepicker",
@@ -2140,13 +2219,13 @@
           "expected": "datetimepicker-[0-9]*-now"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6338,
+      "idtrigger": 6705,
       "type": "AllLinksClick",
       "name": "top-bar logo click",
       "description": "home logo click",
@@ -2158,13 +2237,13 @@
           "expected": ".top-bar > .title > button"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6339,
+      "idtrigger": 6706,
       "type": "AllLinksClick",
       "name": "back to the front page button click",
       "description": "Click on Frontpage link in main-menu",
@@ -2176,13 +2255,13 @@
           "expected": ".main-menu a#frontpage"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6340,
+      "idtrigger": 6707,
       "type": "AllElementsClick",
       "name": "Map data menu",
       "description": "Click on bubble-dialog-toggle button to open Map data",
@@ -2194,13 +2273,13 @@
           "expected": ".roomForZoomControl .bubble-dialog-toggle"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6341,
+      "idtrigger": 6708,
       "type": "AllElementsClick",
       "name": "Click on switch journey end points order",
       "description": "Change the journey order",
@@ -2212,13 +2291,13 @@
           "expected": "styles_opposite__[a-zA-Z0-9]*"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6342,
+      "idtrigger": 6709,
       "type": "AllElementsClick",
       "name": "Open Main Menu",
       "description": "Click on the burger menu",
@@ -2230,13 +2309,13 @@
           "expected": "use[href=\"#icon-icon_menu\"]"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6343,
+      "idtrigger": 6710,
       "type": "AllElementsClick",
       "name": "Open Main Menu Button",
       "description": "Click on the button",
@@ -2248,13 +2327,13 @@
           "expected": "openMenuButton"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6344,
+      "idtrigger": 6711,
       "type": "AllElementsClick",
       "name": "highlight itinerary (elements)",
       "description": "",
@@ -2266,13 +2345,13 @@
           "expected": ".itinerary-summary-row.passive *"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6345,
+      "idtrigger": 6712,
       "type": "AllElementsClick",
       "name": "highlight itinerary (section)",
       "description": "",
@@ -2284,13 +2363,13 @@
           "expected": ".itinerary-summary-row.passive"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6346,
+      "idtrigger": 6713,
       "type": "AllElementsClick",
       "name": "hide intermediate stops (elements click)",
       "description": "",
@@ -2302,13 +2381,13 @@
           "expected": ".itinerary-summary-row.open *"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6347,
+      "idtrigger": 6714,
       "type": "AllElementsClick",
       "name": "hide intermediate stops (section click)",
       "description": "",
@@ -2320,13 +2399,13 @@
           "expected": ".itinerary-summary-row.open"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6348,
+      "idtrigger": 6715,
       "type": "AllElementsClick",
       "name": "itinerary row opens - second click (section)",
       "description": "",
@@ -2348,13 +2427,13 @@
           "expected": "passive"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6349,
+      "idtrigger": 6716,
       "type": "AllLinksClick",
       "name": "open route from itinerary",
       "description": "Click on route details arrow",
@@ -2366,13 +2445,13 @@
           "expected": ".summary-list-items .action-arrow-click-area"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6350,
+      "idtrigger": 6717,
       "type": "AllElementsClick",
       "name": "Disable transport mode subway",
       "description": "Disable transport mode Subway checkbox",
@@ -2389,13 +2468,13 @@
           "expected": "disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6351,
+      "idtrigger": 6718,
       "type": "AllElementsClick",
       "name": "Disable transport mode carpool",
       "description": "Disable transport mode Carpool checkbox",
@@ -2412,13 +2491,13 @@
           "expected": "disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6352,
+      "idtrigger": 6719,
       "type": "AllElementsClick",
       "name": "Map data Checkbox Icon",
       "description": "Click the icon in Map data menu",
@@ -2430,13 +2509,13 @@
           "expected": ".map-layers-content .layer-category-dropdown-checkbox .icon"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6353,
+      "idtrigger": 6720,
       "type": "AllElementsClick",
       "name": "select travel mode - avoid walking",
       "description": "Toggle avoid walking checkbox in travel mode",
@@ -2448,13 +2527,13 @@
           "expected": "label[for=\"settings-toggle-avoid-walking\"]"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6354,
+      "idtrigger": 6721,
       "type": "AllElementsClick",
       "name": "select travel mode - bicycle",
       "description": "Toggle bicycle checkbox in travel mode",
@@ -2466,13 +2545,13 @@
           "expected": "label[for=\"settings-toggle-bicycle\"]"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6355,
+      "idtrigger": 6722,
       "type": "AllElementsClick",
       "name": "select travel mode - p+m",
       "description": "Toggle parkAndRide checkbox in travel mode",
@@ -2484,13 +2563,13 @@
           "expected": "label[for=\"settings-toggle-parkAndRide\"]"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6356,
+      "idtrigger": 6723,
       "type": "AllElementsClick",
       "name": "Disable transport mode rail",
       "description": "Disable transport mode Rail checkbox",
@@ -2507,13 +2586,13 @@
           "expected": "disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6357,
+      "idtrigger": 6724,
       "type": "AllElementsClick",
       "name": "Enable transport mode subway",
       "description": "Enable Subway in transport mode",
@@ -2525,13 +2604,13 @@
           "expected": ".mode-option-container > .mode-option-block.toggle-label.subway"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6358,
+      "idtrigger": 6725,
       "type": "AllElementsClick",
       "name": "Enable transport mode carpool",
       "description": "Enable Carpool in transport mode",
@@ -2543,13 +2622,13 @@
           "expected": ".mode-option-container > .mode-option-block.toggle-label.carpool.disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6359,
+      "idtrigger": 6726,
       "type": "AllElementsClick",
       "name": "Enable transport mode rail",
       "description": "Enable Rail in transport mode",
@@ -2561,13 +2640,13 @@
           "expected": ".mode-option-container > .mode-option-block.toggle-label.rail.disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6360,
+      "idtrigger": 6727,
       "type": "AllElementsClick",
       "name": "Toogle transport mode rental-bicycle",
       "description": "Enable / disable Rental Bicycle in transport mode",
@@ -2579,13 +2658,13 @@
           "expected": "label[for=\"settings-toggle-rental-bicycle\"]"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6361,
+      "idtrigger": 6728,
       "type": "PageView",
       "name": "home page opened",
       "description": "? no tag ?",
@@ -2597,25 +2676,25 @@
           "expected": "https://herrenberg.stadtnavi.de/"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6362,
+      "idtrigger": 6729,
       "type": "DomReady",
       "name": "DOM Ready",
       "description": "Web App fully loaded",
       "parameters": [],
       "conditions": [],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6363,
+      "idtrigger": 6730,
       "type": "AllElementsClick",
       "name": "Favourite expand button",
       "description": "Clicked on the favourite-expand-button",
@@ -2627,13 +2706,13 @@
           "expected": "#favourite-expand-button div"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6364,
+      "idtrigger": 6731,
       "type": "AllElementsClick",
       "name": "Disable transport mode bus",
       "description": "Disable transport mode Bus checkbox",
@@ -2650,13 +2729,13 @@
           "expected": "disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6365,
+      "idtrigger": 6732,
       "type": "AllElementsClick",
       "name": "Enable transport mode bus",
       "description": "Enable Bus in transport mode",
@@ -2668,13 +2747,13 @@
           "expected": ".mode-option-container > .mode-option-block.toggle-label.bus.disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6366,
+      "idtrigger": 6733,
       "type": "AllElementsClick",
       "name": "Add favourite button",
       "description": "Click opens favourite-modal",
@@ -2686,13 +2765,13 @@
           "expected": "#favourite-suggestion-list—item-0 div"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6367,
+      "idtrigger": 6734,
       "type": "AllElementsClick",
       "name": "Toggle positioning",
       "description": "Click on toggle positioning button",
@@ -2704,13 +2783,13 @@
           "expected": ".roomForZoomControl .toggle-positioning-container"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6368,
+      "idtrigger": 6735,
       "type": "AllElementsClick",
       "name": "Close message bar",
       "description": "Click button to close message bar",
@@ -2722,13 +2801,13 @@
           "expected": "#close-message-bar .icon-container"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6369,
+      "idtrigger": 6736,
       "type": "AllElementsClick",
       "name": "Disable transport mode funicular",
       "description": "Disable transport mode Funicular checkbox",
@@ -2745,13 +2824,13 @@
           "expected": "disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6370,
+      "idtrigger": 6737,
       "type": "AllElementsClick",
       "name": "Enable transport mode funicular",
       "description": "Enable Funicular in transport mode",
@@ -2763,13 +2842,13 @@
           "expected": ".mode-option-container > .mode-option-block.toggle-label.funicular.disabled"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6371,
+      "idtrigger": 6738,
       "type": "AllElementsClick",
       "name": "Toogle transport mode rental-scooter",
       "description": "Enable / disable Rental Scooter in transport mode",
@@ -2781,13 +2860,13 @@
           "expected": "label[for=\"settings-toggle-rental-scooter\"]"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6372,
+      "idtrigger": 6739,
       "type": "AllElementsClick",
       "name": "Toogle transport mode rental-car",
       "description": "Enable / disable Rental Car in transport mode",
@@ -2799,13 +2878,13 @@
           "expected": "label[for=\"settings-toggle-rental-car\"]"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6373,
+      "idtrigger": 6740,
       "type": "AllElementsClick",
       "name": "select travel mode - car",
       "description": "Toggle car checkbox in travel mode",
@@ -2817,13 +2896,13 @@
           "expected": "label[for=\"settings-toggle-car\"]"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6374,
+      "idtrigger": 6741,
       "type": "AllElementsClick",
       "name": "Click close-message-bar button",
       "description": "message-bar closing",
@@ -2835,13 +2914,13 @@
           "expected": "close-message-bar"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idtrigger": 6375,
+      "idtrigger": 6742,
       "type": "AllElementsClick",
       "name": "Map data menu svg",
       "description": "Click on bubble-dialog-toggle svg to open Map data",
@@ -2853,15 +2932,69 @@
           "expected": ".roomForZoomControl .bubble-dialog-toggle svg"
         }
       ],
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
+    },
+    {
+      "idtrigger": 6743,
+      "type": "AllElementsClick",
+      "name": "Map data card type button",
+      "description": "Change the \"card type\" in Map data menu",
+      "parameters": [],
+      "conditions": [
+        {
+          "comparison": "match_css_selector",
+          "actual": "ClickElement",
+          "expected": "button.panel-maptype-button"
+        }
+      ],
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
+    },
+    {
+      "idtrigger": 6744,
+      "type": "AllElementsClick",
+      "name": "Map data map type button img",
+      "description": "Change the map type in Map data menu",
+      "parameters": [],
+      "conditions": [
+        {
+          "comparison": "match_css_selector",
+          "actual": "ClickElement",
+          "expected": "button.panel-maptype-button .panel-maptype-image"
+        }
+      ],
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
+    },
+    {
+      "idtrigger": 6745,
+      "type": "AllElementsClick",
+      "name": "External Service link",
+      "description": "Click on a Service link",
+      "parameters": [],
+      "conditions": [
+        {
+          "comparison": "match_css_selector",
+          "actual": "ClickElement",
+          "expected": ".disclaimer-content .external-link-citybike"
+        }
+      ],
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     }
   ],
   "variables": [
     {
-      "idvariable": 948,
+      "idvariable": 1035,
       "type": "MatomoConfiguration",
       "name": "stadtnavi Matomo",
       "description": "",
@@ -2913,13 +3046,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 949,
+      "idvariable": 1036,
       "type": "CustomJsFunction",
       "name": "aria-label",
       "description": "",
@@ -2928,13 +3061,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 950,
+      "idvariable": 1037,
       "type": "CustomJsFunction",
       "name": "icon name",
       "description": "",
@@ -2943,13 +3076,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 951,
+      "idvariable": 1038,
       "type": "CustomJsFunction",
       "name": "routing error message",
       "description": "",
@@ -2958,13 +3091,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 952,
+      "idvariable": 1039,
       "type": "CustomJsFunction",
       "name": "stop name",
       "description": "",
@@ -2973,28 +3106,28 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 953,
+      "idvariable": 1040,
       "type": "CustomJsFunction",
       "name": "Page URL with locations removed",
-      "description": "",
+      "description": "Remove user-specific data from the tracking URL",
       "parameters": {
-        "jsFunction": "function() {\n  const path = window.location.pathname;\n  const query = window.location.href.split(\"?\")[1] || \"\";\n  const parts = path.split(\"/\");\n  const removed = \"[removed]\"\n\n  // the search URLs contain locations which we strip out\n  if(path.indexOf(\"/reiseplan\") == 0){\n    parts[2] = removed;\n    parts[3] = removed;\n  }\n\n  // near you and favourites also has locations to be stripped\n  else if(parts[3] == \"indernaehe\" || parts[3] == \"gespeichertesuchen\"){\n    parts[1] = removed;\n    parts[2] = removed;\n  }\n\n  const modifiedPath = parts.join(\"/\");\n  return window.location.protocol + \"//\" + window.location.host + modifiedPath + \"?\" + query;\n\n};"
+        "jsFunction": "function() {\n  const path = window.location.pathname;\n  const query = window.location.href.split(\"?\")[1] || \"\";\n  const parts = path.split(\"/\");\n  const removed = \"[removed]\"\n\n  // the search URLs contain locations which we strip out\n  if(path.indexOf(\"/reiseplan\") == 0){\n    parts[2] = removed;\n    parts[3] = removed;\n  }\n\n  // near you and favourites also has locations to be stripped\n  else if(parts[3] == \"indernaehe\" || parts[3] == \"gespeichertesuchen\"){\n    parts[1] = removed;\n    parts[2] = removed;\n  }\n\n  query = removed; // removes e.g. \"setTime=true&time=1734876900\"\n\n  const modifiedPath = parts.join(\"/\");\n  return window.location.protocol + \"//\" + window.location.host + modifiedPath + \"?\" + query;\n\n};"
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 954,
+      "idvariable": 1041,
       "type": "CustomJsFunction",
       "name": "settings-toggle-rental-bicycle",
       "description": "Return the state of the settings checkbox",
@@ -3003,13 +3136,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 955,
+      "idvariable": 1042,
       "type": "CustomJsFunction",
       "name": "toggle-rental-scooter",
       "description": "Return the state of the toggle-rental-scooter checkbox",
@@ -3018,13 +3151,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 956,
+      "idvariable": 1043,
       "type": "CustomJsFunction",
       "name": "toggle-rental-car",
       "description": "Return the state of toggle-rental-car checkbox",
@@ -3033,13 +3166,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 957,
+      "idvariable": 1044,
       "type": "CustomJsFunction",
       "name": "settings-toggle-car",
       "description": "Returns state of settings-toggle-car checkbox",
@@ -3048,13 +3181,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 958,
+      "idvariable": 1045,
       "type": "CustomJsFunction",
       "name": "settings-toggle-parkAndRide",
       "description": "Returns the state of settings-toggle-parkAndRide checkbox",
@@ -3063,13 +3196,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 959,
+      "idvariable": 1046,
       "type": "CustomJsFunction",
       "name": "settings-toggle-bicycle",
       "description": "Return the state of settings-toggle-bicycle checkbox",
@@ -3078,13 +3211,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 960,
+      "idvariable": 1047,
       "type": "CustomJsFunction",
       "name": "settings-toggle-avoid-walking",
       "description": "Returns the state of settings-toggle-avoid-walking checkbox",
@@ -3093,13 +3226,13 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     },
     {
-      "idvariable": 961,
+      "idvariable": 1048,
       "type": "CustomJsFunction",
       "name": "map data layer",
       "description": "get label name",
@@ -3108,10 +3241,25 @@
       },
       "lookup_table": [],
       "default_value": "",
-      "created_date": "2024-12-20 09:53:51",
-      "updated_date": "2024-12-20 09:53:51",
-      "created_date_pretty": "Dec 20, 2024 10:53:51",
-      "updated_date_pretty": "Dec 20, 2024 10:53:51"
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
+    },
+    {
+      "idvariable": 1049,
+      "type": "CustomJsFunction",
+      "name": "ClickElement parentNode textContent",
+      "description": "Return the textContent",
+      "parameters": {
+        "jsFunction": "function () { return MatomoTagManager.dataLayer.get('mtm.clickElement').parentNode.textContent; }"
+      },
+      "lookup_table": [],
+      "default_value": "",
+      "created_date": "2024-12-20 13:30:45",
+      "updated_date": "2024-12-20 13:30:45",
+      "created_date_pretty": "Dec 20, 2024 14:30:45",
+      "updated_date_pretty": "Dec 20, 2024 14:30:45"
     }
   ]
 }
